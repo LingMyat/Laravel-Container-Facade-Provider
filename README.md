@@ -1,6 +1,6 @@
 ## Laravel(container)
 This project is learning how container , Service and ServiceProvider are work together.
-As my opinion let think there is a box. So I gonna put some toys to that box. You can think the box is container, toys are service . So if I put toys to that box ,you can think I am a provider. That is how contain,service and serviceProvider work.
+As my opinion let think there is a box. So I gonna put some toys to that box. You can think the box is container, toys are service . So if I put toys to that box ,you can think I am a provider. That is how container,service and serviceProvider work.
 So it is clear now ,ServiceProvider are help to put servics to container. 
 
 ## Facades
